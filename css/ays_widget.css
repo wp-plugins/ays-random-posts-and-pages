@@ -1,0 +1,15 @@
+.ays_field_section .color,.ays_field_section .ays_field
+{
+	float:right;
+	width: 50%;
+	margin-top: -3px;
+}
+p.ays_field_section
+{
+  min-height: 30px;
+}
+
+p[pro]
+{
+	font-style:italic;
+}
